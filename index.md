@@ -121,3 +121,4 @@ En la búsqueda anterior, dar click en el primer registro ``Escherichia coli O15
 
 ## Ejercicio Final
 En la base de datos PubMed del NCBI, busca el artículo con ID: ``PMC168144``, localiza los iniciadores llamados ``slt-I`` (diseñados para identificar la toxina Shiga-Like en E. coli ) y realiza un BLAST para cada uno de ellos. Únicamente con los datos arrojados por BLAST, ¿Consideras confiables a estos iniciadores?
+
